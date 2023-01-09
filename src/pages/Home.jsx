@@ -1,10 +1,13 @@
 import React from 'react';
+import Hero from '../components/UI/Hero/Hero';
+import LiveAuction from '../components/UI/LiveAuction/LiveAuction';
 
 const Home = () => {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <>
+      <Hero />
+      <LiveAuction />
+    </>
   );
 };
 

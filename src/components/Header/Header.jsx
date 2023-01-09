@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import { Container, NavItem } from 'reactstrap';
+import { Container } from 'reactstrap';
 
 import { NavLink, Link } from 'react-router-dom';
 
